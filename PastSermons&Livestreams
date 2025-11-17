@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<header>
+<title>Past Sermons & Livestreams</title>
+<!--Rebel Faith Ministry Page For Past Sermons & Livestreams-->
+<body>
+<h1>Past Sermons & Livestreams</h1>
+<p><b><u>Sermons</b></u></p>
+ <video width="600" height="400" controls>
+   <source src="example.mp4" type="video/mp4">
+   <source src="example.ogg" type="video/ogg">
+</video>
+<br>
+<p><b><u>Sermon 2</u></b></p>
+<video width="600" height="400" controls>
+   <source src="example.mp4" type="video/mp4">
+   <source src="example.ogg" type="video/ogg">
+</video>
+</body>
+</html>
+</!DOCTYPE html>
